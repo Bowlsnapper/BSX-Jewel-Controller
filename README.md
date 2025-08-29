@@ -8,7 +8,7 @@ Apply some heat to the existing jewel, either with a hot air gun or a hair dryer
 You will need to cut a row of plastic out of the recessed section as pictured. This will make room for not only the JST connector, but also the two 0402 resistors on the rear. Your jewel should be able to sit flush in the space.
 <img src="https://github.com/Bowlsnapper/BSX-Jewel-Controller/blob/main/PXL_20250828_074059807.MACRO_FOCUS.jpg" width=49% height=49%> 
 
-The rear of the Jewel will tell you what the pinout is. Plug the included cable into the jewel so that you can see what the orientation is and then know which is positive and which is negative. Once you do, go ahead and solder the wires to the proper pins on the PCB. If you look at the opposite sid eof the board, you will see which is positive and which is negative by seeing the colors of the wires on the connector.
+The rear of the Jewel will tell you what the pinout is. Plug the included cable into the jewel so that you can see what the orientation is and then know which is positive and which is negative. Once you do, go ahead and solder the wires to the proper pins on the PCB. If you look at the opposite side of the board, you will see which is positive and which is negative by seeing the colors of the wires on the connector.
 <img src="https://github.com/Bowlsnapper/BSX-Jewel-Controller/blob/main/PXL_20250825_024023005.MACRO_FOCUS.jpg" width=49% height=49%> 
 <img src="https://github.com/Bowlsnapper/BSX-Jewel-Controller/blob/main/PXL_20250825_030557483.jpg" width=49% height=49%>
 
