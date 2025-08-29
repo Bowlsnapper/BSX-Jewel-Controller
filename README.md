@@ -12,7 +12,7 @@ The rear of the Jewel will tell you what the pinout is. Plug the included cable 
 <img src="https://github.com/Bowlsnapper/BSX-Jewel-Controller/blob/main/PXL_20250825_024023005.MACRO_FOCUS.jpg" width=49% height=49%> 
 <img src="https://github.com/Bowlsnapper/BSX-Jewel-Controller/blob/main/PXL_20250825_030557483.jpg" width=49% height=49%>
 
-Put the controller back together and push the cable through the slot you cut on the shell. Once the controller is back together, go ahead and use a glue of your choice to glue the jewel to the slot, being careful to align properly and with care. Hot glue can be messy so if you use it, please be careful. In my experience, it doesn't work well, is too thick and ges everywhere. Perhaps superglue. 
+Put the controller back together and push the cable through the slot you cut on the shell. Once the controller is back together, go ahead and use a glue of your choice to glue the jewel to the slot, being careful to align properly and with care. Hot glue can be messy so if you use it, please be careful. In my experience, it doesn't work well, is too thick and gets everywhere. Perhaps superglue. 
 
 I soldered a green LED to the contacts with a current-limiting resistor so that I could have some trademark green glow behind the jewel. However, if your controller shell is black, then you can't do this. Lol.
 
