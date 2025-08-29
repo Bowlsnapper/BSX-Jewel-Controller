@@ -17,4 +17,4 @@ Put the controller back together and push the cable through the slot you cut on 
 I soldered a green LED to the contacts with a current-limiting resistor so that I could have some trademark green glow behind the jewel. However, if your controller shell is black, then you can't do this. Lol.
 
 Congrats.You now have the BSX Jewel installed on your controller. Hope you like it!
-<img src="https://github.com/Bowlsnapper/BSX-Jewel/blob/main/PXL_20250827_233642128.MP.jpg" width=49% height=49%> 
+<img src="https://github.com/Bowlsnapper/BSX-Jewel-Controller/blob/main/PXL_20250825_032602838.jpg" width=49% height=49%> 
